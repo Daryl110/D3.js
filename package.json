@@ -1,0 +1,31 @@
+{
+  "name": "e3",
+  "version": "1.0.0",
+  "description": "Abstraction D3 and C3",
+  "main": "./lib/E3",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx nyc mocha tests/**/**/**/*Test.js --timeout=3300"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daryl110/E3.js.git"
+  },
+  "keywords": [
+    "graph",
+    "data",
+    "analysis"
+  ],
+  "author": "Daryl110",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daryl110/E3.js/issues"
+  },
+  "homepage": "https://github.com/Daryl110/E3.js#readme",
+  "dependencies": {
+    "d3": "^5.11.0"
+  }
+}

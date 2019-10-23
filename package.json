@@ -1,5 +1,5 @@
 {
-  "name": "e3",
+  "name": "e3.js",
   "version": "1.0.0",
   "description": "Abstraction D3 and C3",
   "main": "./lib/E3",
@@ -19,7 +19,7 @@
     "data",
     "analysis"
   ],
-  "author": "Daryl110",
+  "author": "daryl110",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Daryl110/E3.js/issues"

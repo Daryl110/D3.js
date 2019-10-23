@@ -27,5 +27,6 @@
   "homepage": "https://github.com/Daryl110/E3.js#readme",
   "dependencies": {
     "d3": "^5.11.0"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

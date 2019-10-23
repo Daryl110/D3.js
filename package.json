@@ -1,5 +1,5 @@
 {
-  "name": "e3.js",
+  "name": "@Daryl110/e3.js",
   "version": "1.0.0",
   "description": "Abstraction D3 and C3",
   "main": "./lib/E3",
